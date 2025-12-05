@@ -1,0 +1,1 @@
+tải project về máy bằng lệnh git clone rồi dùng phpmyadmin import csdl vô là chạy được
